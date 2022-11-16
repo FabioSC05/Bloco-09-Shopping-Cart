@@ -140,6 +140,14 @@ body {
   overflow-y: scroll;
 }
 
+.cart__item {
+  margin-bottom: 20px;
+}
+
+.total-price {
+  margin: 0 auto;
+}
+
 .empty-cart {
   width: 170px;
   height: 35px;
